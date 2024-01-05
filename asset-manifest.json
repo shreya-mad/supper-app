@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/supper-app/static/css/main.87ae7b98.css",
+    "main.js": "/supper-app/static/js/main.bc32ee96.js",
+    "static/media/back.png": "/supper-app/static/media/back.c72c5eacf24657d48668.png",
+    "static/media/image 15.png": "/supper-app/static/media/image 15.51a91eb44a53d734998b.png",
+    "static/media/drama.png": "/supper-app/static/media/drama.a864eaad38bb02659d53.png",
+    "static/media/fantasy.png": "/supper-app/static/media/fantasy.85a525e5ca18760f0560.png",
+    "static/media/horror.png": "/supper-app/static/media/horror.8cf0ef237d63dfef56fd.png",
+    "static/media/music.png": "/supper-app/static/media/music.295291168336c5eebc9a.png",
+    "static/media/fiction.png": "/supper-app/static/media/fiction.53b6360f463eb2515768.png",
+    "static/media/thriller.png": "/supper-app/static/media/thriller.164110864e07a7bc5039.png",
+    "static/media/western.png": "/supper-app/static/media/western.33884603ce10ce9ab4bd.png",
+    "static/media/romance.png": "/supper-app/static/media/romance.b85d63c50705d38d047d.png",
+    "static/media/action.png": "/supper-app/static/media/action.dd2247aacae63344f4a7.png",
+    "static/media/image 14.png": "/supper-app/static/media/image 14.f018e1512aca49d6b39f.png",
+    "index.html": "/supper-app/index.html",
+    "main.87ae7b98.css.map": "/supper-app/static/css/main.87ae7b98.css.map",
+    "main.bc32ee96.js.map": "/supper-app/static/js/main.bc32ee96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87ae7b98.css",
+    "static/js/main.bc32ee96.js"
+  ]
+}
