@@ -1,0 +1,12 @@
+.textarea{
+    background-color:#e2b249;
+    border:none;
+    width: 98%;
+    height:69%;
+    margin-top: 0px;
+    margin-left: 4px;
+    overflow-y: auto;
+}
+.textarea:hover{
+    border:none;
+}

@@ -1,0 +1,11 @@
+.hill{
+    height: 50%;
+    display: flex;
+    justify-content:left;
+    align-items: end;
+    font-weight: 700;
+    font-size: 15px;
+    background-image: url('../assets/image\ 15.png');
+    background-size: cover;
+    /* color: rgb(14, 12, 12); */
+}
